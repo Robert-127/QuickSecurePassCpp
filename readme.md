@@ -1,0 +1,1 @@
+User-Centric Password Tool: Designed with user experience in mind, this tool makes password generation simple and straightforward for everyone.
